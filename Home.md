@@ -5,5 +5,6 @@ This wiki page contains documentation and other useful information for the libra
 ## Table of Contents
 ___________________________________________
 
-[Getting Started]("Getting-Started" "ALT TEXT")
-[Introduction]("Introduction" "ALT TEXT")
+1. [Introduction](Introduction)
+    1. [Getting Started](Getting-Started)
+1. [Getting Finished](Getting-Finished)
