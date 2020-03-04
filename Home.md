@@ -1,4 +1,4 @@
-# Welcome to the NPSS Power System Library wiki!
+# NPSS Power System Library Documentation
 
 ### This wiki page contains documentation and other useful information for the library.
 
@@ -16,7 +16,6 @@
         1. [Electric Port       ](Electric-Port       )
         1. [Electric Node (Bus) ](Electric-Node       )
     1. [Power System Components](Power-System-Components)
-
         1. [AeroCable           ](AeroCable           )
         1. [BasicLoad           ](BasicLoad           )
         1. [Breaker             ](Breaker             )
