@@ -1,4 +1,4 @@
-# NPSS Power System Library Wiki
+## NPSS Power System Library Wiki
 1. [Introduction](Introduction)
 1. [Items Within Library](Items-Within-Library)
     1. [Fundamental Classes and Components](Fundamental-Classes-and-Components)
