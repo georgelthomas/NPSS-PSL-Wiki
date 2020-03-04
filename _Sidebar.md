@@ -47,5 +47,3 @@
         1. [thermal baseline            ](thermal_baseline           )
         1. [thermal test                ](thermal_test               )
         1. [transient baseline          ](transient_baseline         )
-1. [File Structure](File-Structure)
-1. [Links and Other Info](Links-and-Other-Info)
