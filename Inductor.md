@@ -1,1 +1,1 @@
-## Inductor
+### Inductor
