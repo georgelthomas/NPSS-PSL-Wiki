@@ -4,7 +4,19 @@ Electrified aircraft propulsion (EAP) is a prospective advanced propulsion conce
 ### NPSS Power System Library
 This library contains a set of power system and circuit components, as well as an interpreted electric port, designed to connect power system components together. The electric port . The components are designed to work in a manner similar to baseline NPSS components like compressors, turbines, ducts, and others. Electric machine components, being the motors and generators, 
 
+### Solver Setup for Power System Blocks
+--describe what we do with the solver, especially voltage independents in the node element and other elements (which have internal nodes), also describe the on-design current independents
+
+### Solver Sequence for Power System Blocks and Their Use of "PrePass()"
+--describe the prePass shit we do, and the need for cable/breaker blocks to execute before the other blocks (with internal nodes)
+
+### Power Blocks in Assemblies
+--describe things people need to know about how to use power blocks in assemblies, depends on
+
 ### Connecting Power Components
---describe linkPortsI, describe the power propagation logic once it is completed--
+--describe linkPortsI
+
+### Electric Power Types
+--describe the electric power types, and how they affect the solver setup. Describe the power propagation logic once it is completed
 
 To continue reading, see [Items Within Library](Items-Within-Library).
