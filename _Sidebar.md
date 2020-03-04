@@ -10,7 +10,7 @@
         1. [Motor Generator Map   ](MotorGeneratorMap   )
         1. [Electric Port         ](Electric-Port       )
         1. [Electric Node (Bus)   ](Electric-Node       )
-    1. [Power System Components](Power-System-Components)
+    1. [Modeling Components](Modeling-Components)
         1. [Aero Cable            ](AeroCable           )
         1. [Basic Load            ](BasicLoad           )
         1. [Breaker               ](Breaker             )
