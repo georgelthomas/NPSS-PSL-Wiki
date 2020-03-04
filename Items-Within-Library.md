@@ -1,7 +1,7 @@
 ## Items Within Library
 The NPSS Power Systems Library contains contains a set of power system and circuit components, a set of fundamental tools and classes designed to enable creating and analyzing power system models, and a suite of example models using the library tools. Refer to the following sections of this documentation for more information about these items:
 * [Fundamental Classes and Components](Fundamental-Classes-and-Components)
-* [Power System Components](Power-System-Components)
+* [Modeling Components](Modeling-Components)
 * [Examples](Examples)
 
 ## File Structure
