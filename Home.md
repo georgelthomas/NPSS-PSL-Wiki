@@ -1,13 +1,15 @@
 <h1>NPSS Power System Library Documentation</h1>
 
 ## Background
-Electrified aircraft propulsion (EAP) is a prospective advanced propulsion concept to reduce aircraft noise, NOx emissions and aircraft fuel burn. In its most primitive definition, EAP refers to concepts that utilize electrical power in propulsion of the aircraft. This includes hybrid electric, such as the Boeing-General Electric (GE) “Sugar Volt” and turboelectric concepts, such as STARC-ABL, featuring two main engines and an electrically powered aft thruster for boundary layer ingestion. Both hybrid electric and turboelectric concepts utilize an electrical power system to deliver power from an electrical source, e.g. battery or generator, to a motor which drives a propulsor (or aids a turbine) that provides thrust for the vehicle. The electrical power system impacts the overall weight, thermal system requirements, and efficiency of the propulsion system and these tradeoffs need to be considered to meet the design objectives, especially in an optimized fashion. More specifically, this requires the power system to be included in the conceptual design phase of the propulsion system. One of the most widely used tools for conceptual design of propulsion systems is the Numerical Propulsion System Simulation (NPSS). This repository, the NPSS Power System Library (PSL), is designed to enable NPSS to address these needs for modeling EAP systems.
+Electrified aircraft propulsion (EAP) is a prospective advanced propulsion concept to reduce aircraft noise, NOx emissions and aircraft fuel burn. In its most primitive definition, EAP refers to concepts that utilize electrical power in propulsion of the aircraft. This includes hybrid electric, such as the Boeing-General Electric (GE) “Sugar Volt” and turboelectric concepts, such as STARC-ABL, featuring two main engines and an electrically powered aft thruster for boundary layer ingestion. Both hybrid electric and turboelectric concepts utilize an electrical power system to deliver power from an electrical source, e.g. battery or generator, to a motor which drives a propulsor (or aids a turbine) that provides thrust for the vehicle. The electrical power system impacts the overall weight, thermal system requirements, and efficiency of the propulsion system and these tradeoffs need to be considered to meet the design objectives, especially in an optimized fashion. More specifically, this requires the power system to be included in the conceptual design phase of the propulsion system. One of the most widely used tools for conceptual design of propulsion systems is the Numerical Propulsion System Simulation (NPSS). This repository, the NPSS Power System Library (PSL), is designed to enable NPSS to address these needs for modeling EAP systems. The images below show renderings of the Sugar Volt, STARC-ABL, and RVLT EAP concept vehicles.
 
-![Sugar Volt Rendering](sugar-volt.png)     ![STARC-ABL Rendering](starc-abl.jpg)
+![Sugar Volt Rendering](sugar-volt.png)
+
+![STARC-ABL Rendering](starc-abl.jpg)
 
 ![Rendering of RVLT Vehicles](rvlt-vehicles.jpg)
 
-**Renderings of Sugar Volt and STARC-ABL vehicles**
+**Renderings of electrified propulsion concept vehicles**
 
 ## NPSS Power System Library
 This library contains a set of power system and circuit components, as well as an interpreted electric port, designed to connect power system components together. The electric port . The components are designed to work in a manner similar to baseline NPSS components like compressors, turbines, ducts, and others. Electric machine components, being the motors and generators, 
